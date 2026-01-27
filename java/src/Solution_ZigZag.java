@@ -10,7 +10,7 @@ class Tree {
     }
 }
 
-class Solution {
+class Solution_ZigZag {
     private int maxZigZag = 0;
 
     public int solution(Tree T) {
