@@ -12,7 +12,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution1 {
+class Solution1___ {
   public int solution(int[] A) {
     if (A == null || A.length == 0) {
       return 0;
