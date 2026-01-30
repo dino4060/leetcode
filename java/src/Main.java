@@ -1,8 +1,7 @@
-import Test.Test1;
-import Test.Test2;
+import Test.*;
 
 public class Main {
   public static void main(String[] args) {
-    new Test2().runTestCases(new Solution2_()::solution);
+    new Test3().runTestCases(new Solution3_()::solution);
   }
 }
